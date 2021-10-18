@@ -77,4 +77,5 @@ typings/
 
 #misc
 package.json
-diagrams.plantuml.gitattributes
+diagrams.plantuml
+.gitattributes
